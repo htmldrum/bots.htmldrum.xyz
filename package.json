@@ -1,0 +1,25 @@
+{
+  "name": "bots.htmldrum.xyz",
+  "version": "1.0.0",
+  "description": "My collection of shitty slack bots.",
+  "main": "old_gregg.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/htmldrum/max.git"
+  },
+  "keywords": [
+    "bot",
+    "slack"
+  ],
+  "author": "htmldrum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htmldrum/max/issues"
+  },
+  "homepage": "https://github.com/htmldrum/max#readme",
+  "dependencies": {
+    "botkit": "^0.2.2"
+  }
+}
